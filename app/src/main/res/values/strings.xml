@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="fedor_blagodyr">Fedor Blagodyr</string>
+    <string name="some_stars">Some stars</string>
+    <string name="bio">Hello, my name is Fedor\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,\n Hello, my name is Fedor,  "</string>
+    <string name="what_s_your_nickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
+</resources>
